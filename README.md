@@ -1,7 +1,7 @@
 ## Oi sou Deyvid 👋
 
 - 🔭 Hoje trabalho com ciência de dados
-- 🌱 Estudando Python, SQL, Pandas
+- 🌱 Estudando Python, SQL, Pandas, Numpy
 - 👯 Projetos Reais
 
 
