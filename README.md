@@ -7,9 +7,9 @@
 ---
 
 <div>
-  <a href="https://beacons.ai/deyv7">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=deyv7&theme=gruvbox&show_icons=true&hide_border=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyv7&theme=gruvbox&show_icons=true&hide_border=true&layout=compact"/>
+  <a href="https://beacons.ai/deyv7" target="_blank" rel="noopener noreferrer">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=deyv7&theme=gruvbox&show_icons=true&hide_border=true" alt="GitHub stats" style="margin-right:12px;">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deyv7&theme=gruvbox&show_icons=true&hide_border=true&layout=compact" alt="Top languages">
   </a>
 </div>
 
