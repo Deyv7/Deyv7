@@ -1,6 +1,6 @@
 ## Oi, sou o Deyvid 👋
 
-- 🔭 Analista de dados em Brasília, buscando minha primeira vaga na área
+- 🔭 Analista de dados em Brasília
 - 🌱 Estudando: **SQL, Python, Pandas, dbt, BigQuery e Power BI**
 - 👯 Projeto em destaque: **[Eleições em Dados](https://github.com/Deyv7/eleicoes-em-dados)** (BigQuery, dbt e Power BI com dados do TSE)
 - 🌐 Portfólio: **[deyv7.github.io](https://deyv7.github.io)**
